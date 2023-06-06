@@ -9,3 +9,9 @@ Image-Compression/Models/Q=60_97.08 filter=lfs diff=lfs merge=lfs -text
 Image-Compression/Models/Q=70_97.81 filter=lfs diff=lfs merge=lfs -text
 Image-Compression/Models/Q=80_99.27 filter=lfs diff=lfs merge=lfs -text
 Image-Compression/Models/Q=90_97.08 filter=lfs diff=lfs merge=lfs -text
+.zip filter=lfs diff=lfs merge=lfs -text
+.jpg filter=lfs diff=lfs merge=lfs -text
+.png filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
